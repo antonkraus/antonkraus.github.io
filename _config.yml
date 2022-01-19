@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "/prototype.pdf", title: CV, icon: home}
   - {file: "README.md"}
-  - {title: "DoctoLib", url: "https://doctolib.com"}
+  - {title: "DoctoLib", url: "https://doctolib.de"}
   - {title: "Location", url: "https://www.google.com/maps/place/Vivantes+Wenckebach-Klinikum/@52.4586588,13.387481,16.79z/data=!4m5!3m4!1s0x47a84ff86ab59733:0x4b0c3152407cfa05!8m2!3d52.4589186!4d13.3879962"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
