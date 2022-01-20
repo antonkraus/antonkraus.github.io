@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
   - {title: "DoctoLib", url: "https://www.doctolib.de/innere-und-allgemeinmediziner/berlin/lars-christian-baumeister?insurance_sector=public"}
   - {title: "Location", url: "https://www.google.com/maps/place/Vivantes+Wenckebach-Klinikum/@52.4586588,13.387481,16.79z/data=!4m5!3m4!1s0x47a84ff86ab59733:0x4b0c3152407cfa05!8m2!3d52.4589186!4d13.3879962"}
-  - {title: "CV", file: "/univpncisco.pdf"}
+  - {title: "CV", url: "https://antonkraus.github.io/univpncisco.pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:antonkraus@users.noreply.github.com"}
